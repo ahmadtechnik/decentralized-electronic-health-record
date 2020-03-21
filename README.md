@@ -1,4 +1,6 @@
 # decentralized-electronic-health-record
+[![Build Status](https://travis-ci.org/COVID-19-electronic-health-system/decentralized-electronic-health-record.svg?branch=master)](https://travis-ci.org/COVID-19-electronic-health-system)
+
 A decentralized electronic health record. Get ahead of the virus by tracking symptoms, geolocation and social connections while protecting patient privacy.
 
 ## Goal:
