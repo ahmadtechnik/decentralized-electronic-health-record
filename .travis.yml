@@ -19,5 +19,5 @@ before_script:
   yarn
 
 script:
-  yarn test
+  ## yarn test
   yarn run build
